@@ -1,3 +1,4 @@
+Hi, I'm Satyajeet
 I build **reproducible machine learning and analytics projects** that translate business problems into measurable models and clear decisions.
 
 **Core focus:** ML modeling • SQL analytics • forecasting • evaluation & experimentation  
